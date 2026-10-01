@@ -4,8 +4,6 @@ Final-year Computer Science student (Application Development) at ICC, Brussels.
 Backend development in Java and Spring Boot, with a strong interest in the
 infrastructure that runs it.
 
-**Available for a 9-week internship from October 2026, and open to a junior
-developer role in Brussels.**
 
 ### What I'm working on
 
