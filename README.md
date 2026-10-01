@@ -18,6 +18,3 @@ infrastructure that runs it.
 
 `Java 21` `Spring Boot` `Maven` `JUnit` `SQL` `Rust` `Docker` `Linux` `Nginx` `Git`
 
-### Links
-
-[deklab.dev](https://deklab.dev) · [Gitea](https://git.deklab.dev/dek) · [LinkedIn](https://linkedin.com/in/dek-dalier) · contact@deklab.dev
